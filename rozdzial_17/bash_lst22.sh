@@ -1,0 +1,2 @@
+
+ $ grep Piękny zen.txt

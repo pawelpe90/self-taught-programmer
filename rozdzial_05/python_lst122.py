@@ -1,0 +1,2 @@
+
+"Witaj".replace("j", "m")

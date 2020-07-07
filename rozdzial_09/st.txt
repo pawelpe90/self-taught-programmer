@@ -1,0 +1,1 @@
+Cześć... zapisano z Pythona!

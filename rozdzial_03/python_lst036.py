@@ -1,0 +1,2 @@
+﻿
+my_boolean = True

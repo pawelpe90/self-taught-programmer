@@ -1,0 +1,2 @@
+
+$ echo Kocham $ | grep  \$

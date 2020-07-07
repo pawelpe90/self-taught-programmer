@@ -1,0 +1,2 @@
+
+$  grep nigdy.$ zen.txt

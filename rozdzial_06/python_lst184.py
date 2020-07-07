@@ -1,0 +1,2 @@
+﻿
+"imperialny".index("z")

@@ -1,0 +1,31 @@
+Zen Pythona
+
+Piękny jest lepszy niż brzydki,
+A jawny od niejawnego jest lepszy.
+Prostota bije złożoność.
+Choć i ona od złożoności jest lepsza.
+Płaski jest lepszy od zagnieżdżonego,
+a rzadki od gęstego.
+No i przejrzystość! - Ona ma znaczenie!
+Przypadki szczególne nie są szczególnymi aż tak,
+by w ich imię można łamać zasady.
+Lecz to praktyczność jest najważniejsza,
+przed nią korzy się nawet ideologiczna czystość.
+Błędy nigdy nie powinny przechodzić w milczeniu,
+chyba że milczeniem jawnie chcemy zbyć ich istnienie.
+W obliczu niejednoznaczności,
+odrzuć pokusę zgadywania,
+- istnieć powinna jedna - i oby tylko jedna - 
+droga do rozwiązania problemu.
+Choć droga ta umykać może początkowo
+Twojej percepcji (chyba że jesteś Holendrem).
+Lepiej teraz niż nigdy.
+Choć zazwyczaj 
+nigdy
+jest lepsze od *już* teraz.
+Jeśli trudno ci wyjaśnić implementację,
+to jej użycie będzie złym pomysłem.
+Jeśli jednak łatwo ci ją wyjaśnić, to może jest wara zachodu?
+Przestrzenie nazw dodają programiście skrzydeł 
+- ich nigdy zbyt wiele!
+

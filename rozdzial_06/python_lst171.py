@@ -1,0 +1,2 @@
+﻿
+"TAK TO JEST.".lower()

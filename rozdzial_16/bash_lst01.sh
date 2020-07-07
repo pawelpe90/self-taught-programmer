@@ -1,0 +1,2 @@
+
+$ echo Witaj, świecie!

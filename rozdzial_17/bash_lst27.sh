@@ -1,0 +1,2 @@
+
+$ grep ^Jeśli zen.txt

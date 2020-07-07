@@ -1,0 +1,2 @@
+
+"Odpowiedziała mu: \"Owszem.\""

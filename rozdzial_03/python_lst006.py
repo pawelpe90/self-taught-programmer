@@ -1,0 +1,3 @@
+﻿
+# Komentarz
+print("Witaj, świecie!")
